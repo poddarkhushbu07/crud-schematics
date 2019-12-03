@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22912ec9-80f3-4c77-9345-9e9bed463673" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../cap-modules/notice-campaign/.idea/notice-campaign.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/crud-schematics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crud-service" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/src/demo/demo-dialog/demo-dialog.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/src/demo/demo-dialog/demo-dialog.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/src/demo/demo-dialog/demo-dialog.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/src/demo/demo-list/demo-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/src/demo/demo-list/demo-list.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/src/demo/demo-list/demo-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/src/demo/demo-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/src/demo/demo.constants.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/src/demo/demo.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/src/demo/demo.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-test-app/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/hello/files/__name@dasherize__/__name@dasherize__-dialog/__name@dasherize__-dialog.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/hello/files/__name@dasherize__/__name@dasherize__-dialog/__name@dasherize__-dialog.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/hello/files/__name@dasherize__/__name@dasherize__-dialog/__name@dasherize__-dialog.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/hello/files/__name@dasherize__/__name@dasherize__-list/__name@dasherize__-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/hello/files/__name@dasherize__/__name@dasherize__-list/__name@dasherize__-list.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/hello/files/__name@dasherize__/__name@dasherize__-list/__name@dasherize__-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/hello/files/__name@dasherize__/__name@dasherize__-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/hello/files/__name@dasherize__/__name@dasherize__.constants.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/hello/files/__name@dasherize__/__name@dasherize__.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/hello/files/__name@dasherize__/__name@dasherize__.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/hello/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/hello/index_spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/hello/schema.json" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="624">
+                <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crud-service/src/crud/index.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#173#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crud-service/src/collection.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crud-service/src/crud/schema.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crud-service/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/crud-service/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crud-service/src/crud/schema.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/crud-service" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/crud/src/crud/index.ts" />
+        <option value="$PROJECT_DIR$/crud/src/crud/schema.json" />
+        <option value="$PROJECT_DIR$/crud/.gitignore" />
+        <option value="$PROJECT_DIR$/crud-service/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/crud-schematics.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+        <option value="$PROJECT_DIR$/../my-test-app/.idea/my-test-app.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="295" />
+    <option name="y" value="53" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="crud-schematics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crud-schematics" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/my-test-app/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22912ec9-80f3-4c77-9345-9e9bed463673" name="Default Changelist" comment="" />
+      <created>1575359277197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575359277197</updated>
+      <workItem from="1575359278509" duration="2525000" />
+      <workItem from="1575369747359" duration="577000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3102000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="70" y="34" width="1850" height="1046" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15587267" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32921347" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="GraphQL" order="8" />
+      <window_info anchor="bottom" id="TypeScript" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.6539326" />
+      <window_info anchor="bottom" id="GitLabIntegration" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32921347" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/crud/src/crud/index_spec.js.map" />
+        <option value="$PROJECT_DIR$/crud/src/crud/index_spec.js" />
+        <option value="$PROJECT_DIR$/crud/src/crud/index_spec.d.ts" />
+        <option value="$PROJECT_DIR$/crud/src/crud/index.js.map" />
+        <option value="$PROJECT_DIR$/crud/src/crud/index.js" />
+        <option value="$PROJECT_DIR$/crud/src/crud/index.d.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="624">
+            <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud-service/src/crud/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud-service/src/collection.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud-service/src/crud/schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud-service/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud-service/src/crud/schema.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud-service/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
